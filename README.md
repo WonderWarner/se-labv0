@@ -1,6 +1,10 @@
 ![Maven](https://github.com/WonderWarner/se-labv0/actions/workflows/maven.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### Tartalmazza a statikus analízis által relevánsnak vélt hibák javítását
+#### A SonarCloud "biztonság kockázat" hibája hamis negatív jelzés, mert itt a Random példányt játékfunkciókra használjuk, nem baj ha csak pszeudorandom.
+
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
